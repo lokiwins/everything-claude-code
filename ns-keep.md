@@ -335,6 +335,18 @@ Pre-ticked = my suggestion. ★ = used in the last 90 days. Save the file and te
 
 ## Other languages & frameworks
 
+- [x] `nestjs-patterns` (skill) — NestJS architecture patterns for modules, controllers, providers, DTO validation, guards, 
+- [x] `nextjs-turbopack` (skill) — Next.js 16+ and Turbopack guidance — incremental Rust bundling, file-system caching, faste
+- [x] `prisma-patterns` (skill) — Prisma ORM patterns for TypeScript backends — schema design, query optimization, transacti
+- [x] `bun-runtime` (skill) — Bun as runtime, package manager, bundler, and test runner. When to choose Bun vs Node, mig
+- [x] `clickhouse-io` (skill) — ClickHouse database patterns, query optimization, analytics, and data engineering best pra
+- [x] `mle-workflow` (skill) — Production machine-learning engineering workflow for data contracts, reproducible training
+- [x] `mle-reviewer` (agent) — Production machine-learning engineering reviewer for data contracts, feature pipelines, tr
+- [x] `ml-adoption-playbook` (skill) — End-to-end methodology for AI agents and software engineers to add machine learning algori
+- [x] `latency-critical-systems` (skill) — Optimize and verify latency-sensitive systems — realtime dashboards, market data feeds, st
+- [x] `data-throughput-accelerator` (skill) — Diagnose and accelerate large data movement — ingestion, backfill, export, ETL, warehouse 
+- [x] `content-hash-cache-pattern` (skill) — Cache expensive file processing results using SHA-256 content hashes — path-independent, a
+- [x] `flox-environments` (skill) — Create reproducible, cross-platform (macOS/Linux) development environments with Flox, a de
 - [x] `rust-patterns` (skill) — Idiomatic Rust patterns, ownership, error handling, traits, concurrency, and best practice
 - [x] `rust-testing` (skill) — Rust testing patterns including unit tests, integration tests, async testing, property-bas
 - [x] `rust-build` (cmd) — Fix Rust build errors, borrow checker issues, and dependency problems incrementally. Invok
