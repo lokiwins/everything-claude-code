@@ -335,9 +335,9 @@ Pre-ticked = my suggestion. ★ = used in the last 90 days. Save the file and te
 
 ## Other languages & frameworks
 
-- [ ] `mysql-patterns` (skill) — MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool p
-- [ ] `pytorch-patterns` (skill) — PyTorch deep learning patterns and best practices for building robust, efficient, and repr
-- [ ] `pytorch-build-resolver` (agent) — PyTorch runtime, CUDA, and training error resolution specialist. Fixes tensor shape mismat
+- [x] `mysql-patterns` (skill) — MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool p
+- [x] `pytorch-patterns` (skill) — PyTorch deep learning patterns and best practices for building robust, efficient, and repr
+- [x] `pytorch-build-resolver` (agent) — PyTorch runtime, CUDA, and training error resolution specialist. Fixes tensor shape mismat
 
 ## Business, ops & niche tools
 
