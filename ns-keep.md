@@ -335,6 +335,50 @@ Pre-ticked = my suggestion. ★ = used in the last 90 days. Save the file and te
 
 ## Other languages & frameworks
 
+- [x] `rust-patterns` (skill) — Idiomatic Rust patterns, ownership, error handling, traits, concurrency, and best practice
+- [x] `rust-testing` (skill) — Rust testing patterns including unit tests, integration tests, async testing, property-bas
+- [x] `rust-build` (cmd) — Fix Rust build errors, borrow checker issues, and dependency problems incrementally. Invok
+- [x] `rust-review` (cmd) — Comprehensive Rust code review for ownership, lifetimes, error handling, unsafe usage, and
+- [x] `rust-test` (cmd) — Enforce TDD workflow for Rust. Write tests first, then implement. Verify 80%+ coverage wit
+- [x] `rust-build-resolver` (agent) — Rust build, compilation, and dependency error resolution specialist. Fixes cargo build err
+- [x] `rust-reviewer` (agent) — Expert Rust code reviewer specializing in ownership, lifetimes, error handling, unsafe usa
+- [x] `kotlin-patterns` (skill) — Idiomatic Kotlin patterns, best practices, and conventions for building robust, efficient,
+- [x] `kotlin-testing` (skill) — Kotlin testing patterns with Kotest, MockK, coroutine testing, property-based testing, and
+- [x] `kotlin-coroutines-flows` (skill) — Kotlin Coroutines and Flow patterns for Android and KMP — structured concurrency, Flow ope
+- [x] `kotlin-exposed-patterns` (skill) — JetBrains Exposed ORM patterns including DSL queries, DAO pattern, transactions, HikariCP 
+- [x] `kotlin-ktor-patterns` (skill) — Ktor server patterns including routing DSL, plugins, authentication, Koin DI, kotlinx.seri
+- [x] `kotlin-build-resolver` (agent) — Kotlin/Gradle build, compilation, and dependency error resolution specialist. Fixes build 
+- [x] `kotlin-reviewer` (agent) — Kotlin and Android/KMP code reviewer. Reviews Kotlin code for idiomatic patterns, coroutin
+- [x] `android-clean-architecture` (skill) — Clean Architecture patterns for Android and Kotlin Multiplatform projects — module structu
+- [x] `compose-multiplatform-patterns` (skill) — Compose Multiplatform and Jetpack Compose patterns for KMP projects — state management, na
+- [x] `swiftui-patterns` (skill) — SwiftUI architecture patterns, state management with @Observable, view composition, naviga
+- [x] `swift-concurrency-6-2` (skill) — Swift 6.2 Approachable Concurrency — single-threaded by default, @concurrent for explicit 
+- [x] `swift-actor-persistence` (skill) — Thread-safe data persistence in Swift using actors — in-memory cache with file-backed stor
+- [x] `swift-protocol-di-testing` (skill) — Protocol-based dependency injection for testable Swift code — mock file system, network, a
+- [x] `swift-build-resolver` (agent) — Swift/Xcode build, compilation, and dependency error resolution specialist. Fixes swift bu
+- [x] `swift-reviewer` (agent) — Expert Swift code reviewer specializing in protocol-oriented design, value semantics, ARC 
+- [x] `liquid-glass-design` (skill) — iOS 26 Liquid Glass design system — dynamic glass material with blur, reflection, and inte
+- [x] `foundation-models-on-device` (skill) — Apple FoundationModels framework for on-device LLM — text generation, guided generation wi
+- [x] `cpp-coding-standards` (skill) — C++ coding standards based on the C++ Core Guidelines (isocpp.github.io). Use when writing
+- [x] `cpp-testing` (skill) — Use only when writing/updating/fixing C++ tests, configuring GoogleTest/CTest, diagnosing 
+- [x] `cpp-build-resolver` (agent) — C++ build, CMake, and compilation error resolution specialist. Fixes build errors, linker 
+- [x] `cpp-reviewer` (agent) — Expert C++ code reviewer specializing in memory safety, modern C++ idioms, concurrency, an
+- [x] `dotnet-patterns` (skill) — Idiomatic C# and .NET patterns, conventions, dependency injection, async/await, and best p
+- [x] `csharp-testing` (skill) — C# and .NET testing patterns with xUnit, FluentAssertions, mocking, integration tests, and
+- [x] `csharp-reviewer` (agent) — Expert C# code reviewer specializing in .NET conventions, async patterns, security, nullab
+- [x] `fsharp-testing` (skill) — F# testing patterns with xUnit, FsUnit, Unquote, FsCheck property-based testing, integrati
+- [x] `fsharp-reviewer` (agent) — Expert F# code reviewer specializing in functional idioms, type safety, pattern matching, 
+- [x] `dart-flutter-patterns` (skill) — Production-ready Dart and Flutter patterns covering null safety, immutable state with Free
+- [x] `flutter-dart-code-review` (skill) — Library-agnostic Flutter/Dart code review checklist covering widget best practices, state 
+- [x] `flutter-build` (cmd) — Fix Dart analyzer errors and Flutter build failures incrementally. Invokes the dart-build-
+- [x] `flutter-review` (cmd) — Review Flutter/Dart code for idiomatic patterns, widget best practices, state management, 
+- [x] `flutter-test` (cmd) — Run Flutter/Dart tests, report failures, and incrementally fix test issues. Covers unit, w
+- [x] `flutter-reviewer` (agent) — Flutter and Dart code reviewer. Reviews Flutter code for widget best practices, state mana
+- [x] `dart-build-resolver` (agent) — Dart/Flutter build, analysis, and dependency error resolution specialist. Fixes `dart anal
+- [x] `rails-patterns` (skill) — Ruby on Rails framework patterns for Rails 7.1+ and 8.x apps. Covers the directory contrac
+- [x] `rails-security` (skill) — Ruby on Rails security practices for Rails 7.1+ and 8.x apps. Covers production configurat
+- [x] `ruby-reviewer` (agent) — Expert Ruby and Rails code reviewer specializing in idiomatic Ruby, Active Record query sa
+- [x] `react-native-patterns` (skill) — React Native and Expo app patterns — Expo Router navigation, state separation (server/clie
 - [x] `mysql-patterns` (skill) — MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool p
 - [x] `pytorch-patterns` (skill) — PyTorch deep learning patterns and best practices for building robust, efficient, and repr
 - [x] `pytorch-build-resolver` (agent) — PyTorch runtime, CUDA, and training error resolution specialist. Fixes tensor shape mismat
