@@ -428,77 +428,29 @@ Pre-ticked = my suggestion. ★ = used in the last 90 days. Save the file and te
 - [x] `mle-reviewer` (agent) — Production machine-learning engineering reviewer for data contracts, feature pipelines, tr
 - [x] `ml-adoption-playbook` (skill) — End-to-end methodology for AI agents and software engineers to add machine learning algori
 
-## Business, ops, marketing & niche domains (off-stack)
+## Business, ops & niche tools
 
-- [ ] `bengali-nlp` (skill) — Bengali (Bangla) text processing patterns including Unicode normalization, script detectio
-- [ ] `bengali-reviewer` (agent) — Reviews code handling Bengali (Bangla) text for Unicode correctness, proper normalization,
-- [ ] `yoruba-localization-testing` (skill) — Test Yoruba (yo) and English bilingual interfaces for tone marks, underdots, Unicode norma
-- [ ] `visa-doc-translate` (skill) — Translate visa document images (bank deposit, employment, income, and retirement certifica
-- [ ] `i18n-sync` (skill) — Translate and synchronize application JSON locale files using source-key usage, project te
-- [ ] `carrier-relationship-management` (skill) — Manage truckload, LTL, and intermodal carrier portfolios: sourcing and FMCSA vetting, frei
-- [ ] `customs-trade-compliance` (skill) — Codified customs and trade compliance expertise — HS/HTS tariff classification with GRI ru
-- [ ] `energy-procurement` (skill) — Procure electricity and natural gas for commercial and industrial facilities: tariff and r
-- [ ] `inventory-demand-planning` (skill) — Codified demand planning expertise for multi-location retailers: demand forecasting method
-- [ ] `logistics-exception-management` (skill) — Codified freight-exception handling expertise for shipment delays, damages, losses, shorta
-- [ ] `production-scheduling` (skill) — Codified expertise for production scheduling, job sequencing, line balancing, changeover o
-- [ ] `quality-nonconformance` (skill) — Quality control and non-conformance management for regulated manufacturing (FDA 21 CFR 820
-- [ ] `returns-reverse-logistics` (skill) — Codified expertise for returns authorization, receipt and inspection, disposition decision
-- [ ] `customer-billing-ops` (skill) — Operate customer billing workflows such as subscriptions, refunds, churn triage, billing-p
-- [ ] `finance-billing-ops` (skill) — Evidence-first revenue, pricing, refunds, team-billing, and billing-model truth workflow f
-- [ ] `counterparty-channel-discipline` (skill) — Per-channel strict prompts, mention gating, silent observation, and a communication autono
-- [ ] `esign-field-placement` (skill) — Deterministic method for placing signature, date, and text fields in a web e-signature com
-- [ ] `master-agreement-generator` (skill) — Generate review drafts of counterparty master agreements from one template plus a JSON spe
-- [ ] `nutrient-document-processing` (skill) — Process, convert, OCR, extract, redact, sign, and fill documents using the Nutrient DWS AP
-- [ ] `healthcare-cdss-patterns` (skill) — Clinical Decision Support System (CDSS) development patterns. Drug interaction checking, d
-- [ ] `healthcare-emr-patterns` (skill) — EMR/EHR development patterns for healthcare applications. Clinical safety, encounter workf
-- [ ] `healthcare-eval-harness` (skill) — Patient safety evaluation harness for healthcare application deployments. Automated test s
-- [ ] `healthcare-phi-compliance` (skill) — Protected Health Information (PHI) and PII compliance patterns for healthcare applications
-- [ ] `healthcare-reviewer` (agent) — Reviews healthcare application code for clinical safety, CDSS accuracy, PHI compliance, an
-- [ ] `investor-materials` (skill) — Create and update pitch decks, one-pagers, investor memos, accelerator applications, finan
-- [ ] `investor-outreach` (skill) — Draft cold emails, warm intro blurbs, follow-ups, update emails, and investor communicatio
-- [ ] `lead-intelligence` (skill) — AI-native lead intelligence and outreach pipeline. Replaces Apollo, Clay, and ZoomInfo wit
-- [ ] `marketing-campaign` (skill) — End-to-end marketing campaign planning and execution. Covers audience research, positionin
-- [ ] `marketing-campaign` (cmd) — Plan and execute a full marketing campaign. Accepts a product brief and returns positionin
-- [ ] `marketing-agent` (agent) — Marketing strategist and copywriter for campaign planning, audience research, positioning,
-- [ ] `brand-discovery` (skill) — Run a structured, resumable multi-session brand identity interview across 8 modules (purpo
-- [ ] `content-engine` (skill) — Create platform-native content systems for X, LinkedIn, TikTok, YouTube, newsletters, and 
-- [ ] `crosspost` (skill) — Multi-platform content distribution across X, LinkedIn, Threads, and Bluesky. Adapts conte
-- [ ] `social-publisher` (skill) — Agent-driven scheduling and publishing of social media posts across 13 platforms via Socia
-- [ ] `x-api` (skill) — X/Twitter API integration for posting tweets, threads, reading timelines, search, and anal
-- [ ] `seo` (skill) — Audit, plan, and implement SEO improvements across technical SEO, on-page optimization, st
-- [ ] `seo-specialist` (agent) — SEO specialist for technical SEO audits, on-page optimization, structured data, Core Web V
-- [ ] `email-ops` (skill) — Evidence-first mailbox triage, drafting, send verification, and sent-mail-safe follow-up w
-- [ ] `messages-ops` (skill) — Evidence-first live messaging workflow for ECC. Use when the user wants to read texts or D
-- [ ] `mailtrap-email-integration` (skill) — Guides agents through integrating transactional email sending via Mailtrap's Email API, in
-- [ ] `google-workspace-ops` (skill) — Operate across Google Drive, Docs, Sheets, and Slides as one workflow surface for plans, t
-- [ ] `unified-notifications-ops` (skill) — Operate notifications as one ECC-native workflow across GitHub, Linear, desktop alerts, ho
-- [ ] `chief-of-staff` (agent) — Personal communication chief of staff that triages email, Slack, LINE, and Messenger. Clas
-- [ ] `project-flow-ops` (skill) — Operate execution flow across GitHub and Linear by triaging issues and pull requests, link
-- [ ] `osint-investigation` (skill) — Sparse-clue OSINT investigation methodology for extracting overlooked leads, connecting fr
-- [ ] `security-bounty-hunter` (skill) — Hunt for exploitable, bounty-worthy security issues in repositories. Focuses on remotely r
-- [ ] `web-perimeter-owasp-2025-audit` (skill) — Passive, non-destructive web perimeter security auditing mapped to OWASP Top 10:2025 surfa
-- [ ] `data-scraper-agent` (skill) — Build a fully automated AI-powered data collection agent for any public source — job board
-- [ ] `fal-ai-media` (skill) — Unified media generation via fal.ai MCP — image, video, and audio. Covers text-to-image (N
-- [ ] `video-editing` (skill) — AI-assisted video editing workflows for cutting, structuring, and augmenting real footage.
-- [ ] `videodb` (skill) — Ingest, index, search, edit, and monitor video and audio with the VideoDB Python SDK — upl
-- [ ] `frontend-slides` (skill) — Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoin
-- [ ] `ui-demo` (skill) — Record polished UI demo videos using Playwright. Use when the user asks to create a demo, 
-- [ ] `game-metrics` (skill) — Maximize commit count and PR count by splitting work into many small, atomic commits and m
-- [ ] `ito-compute` (skill) — Query live GPU inventory, submit an authenticated Itô fixed-rate RFQ, inspect RFQ or procu
-- [ ] `ito-inference` (skill) — Inspect the availability of model serving on a completed Itô compute booking and, when the
-- [ ] `ito-training` (skill) — Inspect the availability of ML training on a completed Itô compute booking and, when the c
-- [ ] `leanrea` (skill) — Reverse engineers shipped software with bounded local CLI inspection. Covers PE headers, E
-- [ ] `nasiko-control-plane` (skill) — Manage the experimental Nasiko CLI lifecycle through ECC — read-only status checks, consen
-- [ ] `platform-factory` (skill) — Build deterministic OCI images, SBOM/provenance evidence and hardened container or microVM
-- [ ] `plankton-code-quality` (skill) — Write-time code quality enforcement using Plankton — auto-formatting, linting, and Claude-
-- [ ] `enterprise-agent-ops` (skill) — Operational controls for long-lived or cloud-hosted agent systems — runtime lifecycle (sta
-- [ ] `terminal-opener` (skill) — Open an executable and its argument array in a visible terminal window through a reusable,
-- [ ] `terminal-ops` (skill) — Evidence-first repo execution workflow for ECC. Use when the user wants a command run, a r
-- [ ] `opensource-pipeline` (skill) — Open-source pipeline: fork, sanitize, and package private projects for safe public release
-- [ ] `opensource-forker` (agent) — Fork any project for open-sourcing. Copies files, strips secrets and credentials (20+ patt
-- [ ] `opensource-packager` (agent) — Generate complete open-source packaging for a sanitized project. Produces CLAUDE.md, setup
-- [ ] `opensource-sanitizer` (agent) — Verify an open-source fork is fully sanitized before release. Scans for leaked secrets, PI
-- [ ] `auto-update` (cmd) — Pull the latest ECC repo changes and reinstall the current managed targets.
+- [x] `customs-trade-compliance` (skill) — Codified customs and trade compliance expertise — HS/HTS tariff classification with GRI ru
+- [x] `investor-materials` (skill) — Create and update pitch decks, one-pagers, investor memos, accelerator applications, finan
+- [x] `investor-outreach` (skill) — Draft cold emails, warm intro blurbs, follow-ups, update emails, and investor communicatio
+- [x] `seo` (skill) — Audit, plan, and implement SEO improvements across technical SEO, on-page optimization, st
+- [x] `seo-specialist` (agent) — SEO specialist for technical SEO audits, on-page optimization, structured data, Core Web V
+- [x] `email-ops` (skill) — Evidence-first mailbox triage, drafting, send verification, and sent-mail-safe follow-up w
+- [x] `messages-ops` (skill) — Evidence-first live messaging workflow for ECC. Use when the user wants to read texts or D
+- [x] `google-workspace-ops` (skill) — Operate across Google Drive, Docs, Sheets, and Slides as one workflow surface for plans, t
+- [x] `unified-notifications-ops` (skill) — Operate notifications as one ECC-native workflow across GitHub, Linear, desktop alerts, ho
+- [x] `chief-of-staff` (agent) — Personal communication chief of staff that triages email, Slack, LINE, and Messenger. Clas
+- [x] `project-flow-ops` (skill) — Operate execution flow across GitHub and Linear by triaging issues and pull requests, link
+- [x] `osint-investigation` (skill) — Sparse-clue OSINT investigation methodology for extracting overlooked leads, connecting fr
+- [x] `security-bounty-hunter` (skill) — Hunt for exploitable, bounty-worthy security issues in repositories. Focuses on remotely r
+- [x] `web-perimeter-owasp-2025-audit` (skill) — Passive, non-destructive web perimeter security auditing mapped to OWASP Top 10:2025 surfa
+- [x] `data-scraper-agent` (skill) — Build a fully automated AI-powered data collection agent for any public source — job board
+- [x] `fal-ai-media` (skill) — Unified media generation via fal.ai MCP — image, video, and audio. Covers text-to-image (N
+- [x] `video-editing` (skill) — AI-assisted video editing workflows for cutting, structuring, and augmenting real footage.
+- [x] `videodb` (skill) — Ingest, index, search, edit, and monitor video and audio with the VideoDB Python SDK — upl
+- [x] `frontend-slides` (skill) — Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoin
+- [x] `ui-demo` (skill) — Record polished UI demo videos using Playwright. Use when the user asks to create a demo, 
+- [x] `auto-update` (cmd) — Pull the latest ECC repo changes and reinstall the current managed targets.
 
 ## Unsorted
 
